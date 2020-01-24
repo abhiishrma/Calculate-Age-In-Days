@@ -7,7 +7,6 @@ function inday(){
     h1.appendChild(textAnswer);
     document.getElementById('resulting').appendChild(h1);
 }
-
 function reset(){
     document.getElementById('formula').remove();
 }
